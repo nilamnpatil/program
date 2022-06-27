@@ -19,7 +19,10 @@ public class Screenshotp {
      System.out.println(Source);
      File dest=new File("C:\\Users\\nikep\\eclipse-workspace\\Nilam\\Screenshot//photo.jpg");
 	 FileHandler.copy(Source, dest);
+	 
 
 	}
+	//
 
 }
+// nilam velocity.....
