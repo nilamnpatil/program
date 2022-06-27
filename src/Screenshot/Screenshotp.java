@@ -26,3 +26,4 @@ public class Screenshotp {
 
 }
 // nilam velocity.....
+//manual 
